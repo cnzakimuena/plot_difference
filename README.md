@@ -17,7 +17,7 @@ pip install -r requirements.txt
 Usage:
 
 ```bash
-python difference_plot.py
+python plot_difference.py
 ```
 
 <p align="center">
